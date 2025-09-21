@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Administrasi RT Digital",
+  "description": "A comprehensive web application for Neighborhood Association (RT) administration, built with React and Tailwind CSS. It manages citizen data, official letters, finances, events, and more, with all data stored locally in the browser.",
+  "requestFramePermissions": []
+}
